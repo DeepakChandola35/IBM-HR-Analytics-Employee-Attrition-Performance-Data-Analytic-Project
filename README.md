@@ -88,6 +88,18 @@ Key findings from the analysis:
 - Tenure Analysis
 
 ---
+---
+insights Ss
+
+<img width="971" height="1367" alt="Screenshot 2026-02-25 235508" src="https://github.com/user-attachments/assets/2a1d21d8-09d4-4a56-bbad-adb0feff9ff7" />
+<img width="1240" height="1144" alt="Screenshot 2026-02-25 235521" src="https://github.com/user-attachments/assets/99935a53-69c8-40bb-8329-2d6e76429f9b" />
+<img width="622" height="1372" alt="Screenshot 2026-02-25 235531" src="https://github.com/user-attachments/assets/acbb6d93-bf05-4f61-8966-aca8b68387c3" />
+<img width="1100" height="1400" alt="Screenshot 2026-02-25 235540" src="https://github.com/user-attachments/assets/0390172d-a0e6-4a6a-896b-63c7c6b6e493" />
+<img width="2880" height="1704" alt="Screenshot 2026-02-25 233557" src="https://github.com/user-attachments/assets/00ad99e5-c256-4f5b-a597-641e4cc9f2fa" />
+
+
+
+---
 
  📌 Business Recommendations
 
